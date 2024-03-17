@@ -1,1 +1,1 @@
-# Star-Classification-Algorithms
+Here I have tried to use different machine learning algorithms to classify different types of stars based on their characteristics such as Temperature, radius, mass etc and see the which model works better.
